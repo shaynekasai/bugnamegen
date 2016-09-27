@@ -1,0 +1,15 @@
+{
+  "name": "bugnamegen",
+  "version": "1.0.0",
+  "description": "A random insect name generator based on existing BugsCEP Coleopteran Ecology Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shayne Kasai <shaynekasai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv2json": "^1.1.0",
+    "sqlite3": "^3.1.4"
+  }
+}
